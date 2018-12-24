@@ -51,4 +51,9 @@ public class TSSearchTest {
         }
         indexReader.close();
     }
+
+    @Test
+    public void m1(){
+
+    }
 }
